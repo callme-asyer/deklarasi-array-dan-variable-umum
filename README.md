@@ -1,0 +1,1 @@
+# deklarasi-array-dan-variable-umum
